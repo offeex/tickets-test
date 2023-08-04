@@ -1,0 +1,1 @@
+export const MOCK_EVENT_ID = 1198
